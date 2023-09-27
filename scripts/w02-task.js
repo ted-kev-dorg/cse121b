@@ -4,7 +4,7 @@
 
 /* Step 2 - Variables */
 let fullName = 'Kevin Dorgeles Tetede';
-let currentYear = '2023';
+let currentYear = new Date().getFullYear();
 let profilePicture = 'images/Kevin.jpg';
 
 /* Step 3 - Element Variables */
